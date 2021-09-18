@@ -8,8 +8,8 @@ AWS | Vagrante  |  Ansible  | Docker |  Terraform  and CI/CD tools.
 ___
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunareisalm&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunareisalm&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunareisalm&show_icons=true&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunareisalm&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Certifications
 <div style="display: inline_block">
