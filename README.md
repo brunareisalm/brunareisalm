@@ -1,7 +1,7 @@
 ### Hi people, welcome to my GitHub 💻 
 
 My name is Bruna, I have bachelor of computer science, graduated from Salvador University - Unifacs. I'm passionate about technology, and a short time i started studies on the  DevOps culture. I love contribute and help environments with infrastructure automation. I'm studying technologies like:
-AWS | Vagrante  |  Ansible  | Docker |  Terraform  and CI/CD tools.
+AWS | Vagrant  |  Ansible  | Docker |  Terraform  and CI/CD tools.
 
 <a href="https://www.linkedin.com/in/bruna-reis-alm/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 
